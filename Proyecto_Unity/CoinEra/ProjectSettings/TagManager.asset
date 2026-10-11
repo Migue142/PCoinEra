@@ -2,21 +2,22 @@
 %TAG !u! tag:unity3d.com,2011:
 --- !u!78 &1
 TagManager:
-  serializedVersion: 2
-  tags: []
+  serializedVersion: 3
+  tags:
+  - suelo
   layers:
   - Default
   - TransparentFX
   - Ignore Raycast
-  - 
+  - Sky
   - Water
   - UI
-  - 
-  - 
-  - 
-  - 
-  - 
-  - 
+  - Far
+  - Mid
+  - Near
+  - Particles
+  - Ground
+  - Player
   - 
   - 
   - 
@@ -41,3 +42,27 @@ TagManager:
   - name: Default
     uniqueID: 0
     locked: 0
+  - name: Sky
+    uniqueID: 602116365
+    locked: 0
+  - name: Far
+    uniqueID: 2780092845
+    locked: 0
+  - name: Mid
+    uniqueID: 2451441919
+    locked: 0
+  - name: Near
+    uniqueID: 143882137
+    locked: 0
+  - name: Particles
+    uniqueID: 2299711485
+    locked: 0
+  - name: Ground
+    uniqueID: 2926925165
+    locked: 0
+  - name: Player
+    uniqueID: 3005915755
+    locked: 0
+  m_RenderingLayers:
+  - Default
+  m_MigratedRenderPipelines: []
