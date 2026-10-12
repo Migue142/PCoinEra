@@ -757,6 +757,28 @@ TextureImporter:
       indices: 
       edges: []
       weights: []
+    - serializedVersion: 2
+      name: adventurer_spritesheet_27
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 96
+        height: 96
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ef9599f27cfff9f41901080714060477
+      internalID: 232809421
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     outline: []
     customData: 
     physicsShape: []
@@ -793,6 +815,7 @@ TextureImporter:
       adventurer_spritesheet_24: -13158585
       adventurer_spritesheet_25: -1622540612
       adventurer_spritesheet_26: 120550747
+      adventurer_spritesheet_27: 232809421
       adventurer_spritesheet_3: 5842668352293514463
       adventurer_spritesheet_4: -4409840440818933587
       adventurer_spritesheet_5: -73104581292324980
