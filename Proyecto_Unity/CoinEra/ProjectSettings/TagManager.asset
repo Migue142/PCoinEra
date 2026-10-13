@@ -5,6 +5,10 @@ TagManager:
   serializedVersion: 3
   tags:
   - suelo
+  - vida
+  - moneda
+  - trampa
+  - meta
   layers:
   - Default
   - TransparentFX
